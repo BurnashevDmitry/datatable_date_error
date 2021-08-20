@@ -12,7 +12,11 @@
     "core-js": "^3.6.5",
     "vue": "^3.0.0",
     "vue-router": "^4.0.0-0",
-    "vuex": "^4.0.0-0"
+    "vuex": "^4.0.0-0",
+    "primevue": "^3.6.4",
+    "primeicons": "latest",
+    "primeflex": "2.0.0",
+    "axios": "^0.21.1"
   },
   "devDependencies": {
     "@types/chai": "^4.2.11",
